@@ -1,0 +1,17 @@
+E:\Asp .Net Core Web API\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.EF.deps.json
+E:\Asp .Net Core Web API\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.EF.runtimeconfig.json
+E:\Asp .Net Core Web API\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.EF.dll
+E:\Asp .Net Core Web API\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.EF.pdb
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.csproj.AssemblyReference.cache
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.AssemblyInfoInputs.cache
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.AssemblyInfo.cs
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.csproj.CoreCompileInputs.cache
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.dll
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\refint\RepositoryPattern.EF.dll
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.pdb
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.genruntimeconfig.cache
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\ref\RepositoryPattern.EF.dll
+E:\Asp .Net Core Web API\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.core.dll
+E:\Asp .Net Core Web API\RepositoryPattern.EF\bin\Debug\net7.0\RepositoryPattern.core.pdb
+E:\Asp .Net Core Web API\RepositoryPattern.EF\obj\Debug\net7.0\RepositoryPattern.EF.csproj.CopyComplete

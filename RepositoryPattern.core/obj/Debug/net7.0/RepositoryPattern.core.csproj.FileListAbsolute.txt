@@ -1,0 +1,12 @@
+E:\Asp .Net Core Web API\RepositoryPattern.core\bin\Debug\net7.0\RepositoryPattern.core.deps.json
+E:\Asp .Net Core Web API\RepositoryPattern.core\bin\Debug\net7.0\RepositoryPattern.core.dll
+E:\Asp .Net Core Web API\RepositoryPattern.core\bin\Debug\net7.0\RepositoryPattern.core.pdb
+E:\Asp .Net Core Web API\RepositoryPattern.core\obj\Debug\net7.0\RepositoryPattern.core.csproj.AssemblyReference.cache
+E:\Asp .Net Core Web API\RepositoryPattern.core\obj\Debug\net7.0\RepositoryPattern.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp .Net Core Web API\RepositoryPattern.core\obj\Debug\net7.0\RepositoryPattern.core.AssemblyInfoInputs.cache
+E:\Asp .Net Core Web API\RepositoryPattern.core\obj\Debug\net7.0\RepositoryPattern.core.AssemblyInfo.cs
+E:\Asp .Net Core Web API\RepositoryPattern.core\obj\Debug\net7.0\RepositoryPattern.core.csproj.CoreCompileInputs.cache
+E:\Asp .Net Core Web API\RepositoryPattern.core\obj\Debug\net7.0\RepositoryPattern.core.dll
+E:\Asp .Net Core Web API\RepositoryPattern.core\obj\Debug\net7.0\refint\RepositoryPattern.core.dll
+E:\Asp .Net Core Web API\RepositoryPattern.core\obj\Debug\net7.0\RepositoryPattern.core.pdb
+E:\Asp .Net Core Web API\RepositoryPattern.core\obj\Debug\net7.0\ref\RepositoryPattern.core.dll
